@@ -1,0 +1,15 @@
+ebay_deal_scraper/beautifulsoup4-*.dist-info/**
+ebay_deal_scraper/bs4*/**
+ebay_deal_scraper/certifi-*.dist-info/**
+ebay_deal_scraper/certifi/**
+ebay_deal_scraper/chardet-*.dist-info/**
+ebay_deal_scraper/chardet/**
+ebay_deal_scraper/idna-*.dist-info/**
+ebay_deal_scraper/idna/**
+ebay_deal_scraper/requests-*.dist-info/**
+ebay_deal_scraper/requests/**
+ebay_deal_scraper/urllib3-*.dist-info/**
+ebay_deal_scraper/urllib3/**
+ebay_deal_scraper/bin
+.serverless/**
+package/__pycache__/**

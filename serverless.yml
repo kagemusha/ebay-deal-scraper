@@ -1,0 +1,12 @@
+service: ebay-deal-scraper
+
+provider:
+  name: aws
+  runtime: python3.6
+
+package:
+  artifact: ebay_deal_scraper/package.zip
+
+functions:
+  ebay_scrape:
+    handler: handler.scrape
